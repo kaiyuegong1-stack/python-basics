@@ -1,22 +1,23 @@
-# Learning Log
+# Python Basics
 
+## 项目介绍
 
-## Day1
+Python 基础学习仓库，记录 AI 工程方向的 Python 学习过程。
 
-今天完成：
+## 学习内容
 
-- 安装Python
-- 配置VSCode
-- 学习Git
-- 创建GitHub仓库
-- 完成第一个Python程序
+- Day1：环境搭建
+- Day2：变量与数据类型
+- Day3：条件判断
 
+## 目录结构
 
-困难：
+hello_python/
+learning-log.md
 
-第一次配置Git。
+## 技术栈
 
-
-明天：
-
-学习Python变量和数据类型。
+- Python 3.12
+- Git
+- GitHub
+- VS Code
